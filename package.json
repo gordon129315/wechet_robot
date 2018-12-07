@@ -1,0 +1,26 @@
+{
+  "name": "wechet_robot",
+  "version": "1.0.0",
+  "description": "input the command in cmd",
+  "main": "mybot.js",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "system-sleep": "^1.3.6",
+    "wechaty": "^0.23.18",
+    "wechaty-puppet-padchat": "^0.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gordon129315/wechet_robot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gordon129315/wechet_robot/issues"
+  },
+  "homepage": "https://github.com/gordon129315/wechet_robot#readme"
+}
